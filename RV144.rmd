@@ -72,6 +72,7 @@ rowPerc(results)
 chisqtestGC(results, graph = TRUE)
 ```
 
+In the Chi-Dquare test the P-Value is at 0.0482 therefore we can accept the null hypothesis as untrue. In the table above you can see the p-value 0.0482 of the shaded area under the curve. 
 
 ## Conclusions
 
