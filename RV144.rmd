@@ -62,6 +62,7 @@ rowPerc(results)
 ```
 
 
+The vaccine made a difference because, in the first group, 99.38 people did not get it and, in the second group the vaccine does not matter because only 50% of vaccinated subjects were able to escape the virus. In the second group half of the people with the placebo got AIDS, so the vaccine does not work.
 
 
 ## Inferential results
