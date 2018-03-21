@@ -73,6 +73,7 @@ chisqtestGC(results, graph = TRUE)
 ```
 
 In the Chi-Dquare test the P-Value is at 0.0482 therefore we can accept the null hypothesis as untrue. In the table above you can see the p-value 0.0482 of the shaded area under the curve. 
+
 In the Chi-Dquare test the P-Value is at 0.0482 therefore we can accept the null hypothesis as untrue. The null hypothesis is there is not a correlation between recieving the vaccine and contracting the AIDS Virus. In the table above you can see the p-value 0.0482 of the shaded area under the curve.
 
 ## Conclusions
