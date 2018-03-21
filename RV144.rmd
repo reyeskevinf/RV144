@@ -45,6 +45,9 @@ rownames(results) <- c("none","aids")
 
 ## Results
 <!-- You are to add descriptive comments to explain to the reader what the plot is showing !-->
+$H_0:$ There is not a correlation between recieving the vaccine and contracting the AIDS Virus
+
+$H_A:$ There is a correlation between recieving the vaccine and contracting the AIDS Virus
 
 ### Graphical results
 <!--Display graphical evidence as to the effectiveness of the vaccine with explanations!-->
