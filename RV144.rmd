@@ -55,6 +55,9 @@ $H_A:$ There is a correlation between recieving the vaccine and contracting the 
 barchartGC(results,type = "percent")
 ```
 
+The barchart above shows there is no significant difference in the group who did not contract the virus. However, in the group who contracted the AIDS virus, there is a significant difference bewteen who recieved the placebo and vacine. These results imply that the vaccine helped recude the occurance of the AIDS virus.  
+
+
 ### Numerical Results
 
 <!--Display numerical evidence as to the effectiveness of the vaccine with explanations !--> 
